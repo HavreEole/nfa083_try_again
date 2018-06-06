@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /inc/
+
+Sitemap : http://fenntasy.com/wanuts/nfa083/sitemap.xml
